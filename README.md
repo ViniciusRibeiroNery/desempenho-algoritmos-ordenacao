@@ -111,6 +111,10 @@ O desenvolvimento deste projeto permitiu comparar, na prática, diferentes algor
 
 Os resultados demonstraram que não existe um único algoritmo ideal para todas as situações. A escolha deve considerar o tamanho da entrada, as características dos dados, o tempo de execução e o consumo de memória.
 
+##Observções
+
+Os arquivos TXT e CSV são os arquivos gerados pelo autor que foram utilizados como base para estruturar o relatório técnico. 
+
 ## Autor
 
 **Vinicius Ribeiro Nery Costa**
