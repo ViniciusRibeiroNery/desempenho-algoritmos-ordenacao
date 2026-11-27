@@ -1,0 +1,7 @@
+Categoria;Algoritmo;Complexidade media;valores 0 a 100 (ms);valores 0 a 10000 (ms);valores 0 a 1000000 (ms);valores 0 a 10000000 (ms);valores 0 a 100000000 (ms)
+Comparacao;Merge Sort;O(n log n);7,998833;10,171967;10,486067;10,495033;10,478767
+Comparacao;Quick Sort;O(n log n);7,716133;11,263533;11,882967;11,737267;11,809533
+Comparacao;Heap Sort;O(n log n);13,665133;16,164133;16,074233;18,848733;16,083400
+Sem comparacao;Counting Sort;O(n + K);0,733400;0,945967;3,670067;34,584867;264,871400
+Sem comparacao;Radix Sort;O(d(n + b));0,771233;1,310367;1,857367;1,886233;2,413867
+Sem comparacao;Bucket Sort;O(n) esperado (dados uniformes);2,834767;3,221067;3,542667;3,529967;3,591367

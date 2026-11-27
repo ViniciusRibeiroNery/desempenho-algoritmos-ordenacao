@@ -1,0 +1,7 @@
+Processador : Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+RAM visivel : 15.8 GiB
+Sistema     : Windows (anotar a versao exata)
+Linguagem   : C (padrao 202311L), compilador GCC 16.2.0
+Otimizacao  : DESATIVADA (recompile com -O2)
+Seed        : 20261127
+Repeticoes  : 3
